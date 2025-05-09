@@ -11,6 +11,7 @@ Sentiment Analysis with RoBERTa: In parallel, a pre-trained RoBERTa model fine-t
 Comparative Evaluation: The results of both VADER and RoBERTa analyses are compared through various visualizations. Exploratory plots, including bar plots, box plots, scatter plots, and pairplots created using Seaborn, help elucidate the similarities, differences, and relationships between the two methodologies.
 
 Overall, the project not only outlines the process of cleaning and vectorizing tweet data but also demonstrates how traditional lexicon-based models can be compared and complemented by modern transformer-based models in the task of sentiment analysis on social media data. This comprehensive pipeline paves the way for further refinements and applications in social media analytics.
+Plots I got w.r.t. the considered dataset by considering only 500 rows
 ![image](https://github.com/user-attachments/assets/e5f8a9b2-7129-4b92-aa5a-0d88d55c8952)
 ![image](https://github.com/user-attachments/assets/62f40516-a73e-4b9d-bea3-37322603e3f3)
 ![image](https://github.com/user-attachments/assets/d6c0e0b2-405e-43f1-b98e-65f1b4197555)
